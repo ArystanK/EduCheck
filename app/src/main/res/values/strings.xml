@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">EduCheck</string>
+    <string name="self_education_complex">Complex of self education</string>
+    <string name="register">Register</string>
+    <string name="login_as_guest">Login as guest</string>
+    <string name="choose_program">Choose a program</string>
+    <string name="login_required">login is required*</string>
+    <string name="learn_with_us">Learn with us</string>
+    <string name="here_you_can_use_additional_tools">Here you can use additional tools</string>
+    <string name="learn_from_us">Learn from us</string>
+    <string name="here_you_can_take_tests_and_more">Here you can take tests and more</string>
+    <string name="main">Main</string>
+    <string name="settings">Settings</string>
+    <string name="profile">Profile</string>
+</resources>

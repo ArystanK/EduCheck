@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EduCheck</string>
+    <string name="self_education_complex">Комплекс самообучения</string>
+    <string name="register">Зарегестрироваться</string>
+    <string name="login_as_guest">Войти как гость</string>
+    <string name="choose_program">Выберите программу</string>
+    <string name="login_required">требуется вход*</string>
+    <string name="learn_with_us">Учись с нами</string>
+    <string name="here_you_can_use_additional_tools">Здесь вы сможете воспользоваться дополнительными инструментами</string>
+    <string name="learn_from_us">Учись у нас</string>
+    <string name="here_you_can_take_tests_and_more">Здесь вы самостоятельно проходить тесты и многое другое</string>
+</resources>
